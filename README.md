@@ -1,13 +1,13 @@
 # Bike Sharing Company BoomBikes
 > The given dataset contains the bike sharing deatils of the BoomBikes company from 2018 and 2019. A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario.
 
-So company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
+> So company wants to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
 
-Essentially, the company wants —
+> Essentially, the company wants —
 
-Which variables are significant in predicting the demand for shared bikes.
-How well those variables describe the bike demands
-To know the accuracy of the model, i.e. how well these variables can predict demand for shared bikes.
+> Which variables are significant in predicting the demand for shared bikes.
+> How well those variables describe the bike demands
+> To know the accuracy of the model, i.e. how well these variables can predict demand for shared bikes.
 
 
 ## Table of Contents
